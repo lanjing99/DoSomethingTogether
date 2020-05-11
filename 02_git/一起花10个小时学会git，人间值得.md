@@ -38,4 +38,17 @@ git更强大的地方在于团队协作。例如这次需要十几个人协作�
 2. 购买这个“git三剑客”这个课程，下面是我的课程推荐码![课程二维码](./images/kecheng.jpg)
 3. 注册一个github账号，www.github.com
 4. 我创建了一个git仓库来存放学习的文档和问题，如果你遇到任何问题，欢迎把问题提交到[这里](https://github.com/lanjing99/DoSomethingTogether/issues/1):https://github.com/lanjing99/DoSomethingTogether/issues/1。我保证回答同学们的每一个疑问。
+5. 加一下微信群 ![weicaht](./images/weichat.jpg)
 
+## 问题
+
+1. 我已经用了印象笔记之类的工具，为什么还需要学习git和github？
+
+   就目前我使用的情况看，对比之下有几点：
+   * 印象笔记只能管理纯文本的文档，例如想保存一份word文档或者ppt就做不到，可以git用来管理所有类型的文件。
+
+   * 印象笔记，如果这家公司倒闭了，你的数据就丢失了。存放git仓库里的数据可以放在自己电脑上、github服务器、任何电脑上。基本上不会丢失。
+
+   * 印象笔记的协同功能有限，还要收费。git是免费的，github免费版的功能也足够使用了。
+
+   * 在开源社区git是基础工具，学会用这个工具就能很方便参与别人发起的项目。
